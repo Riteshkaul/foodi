@@ -24,7 +24,7 @@ $ yarn # or npm i
     - #### `pages` - The pages folder contains the admin, home and menu pages.
     - #### `layout` - The layout folder contains React components that define the overall structure of your application, including the main dashboard and menu components.
 - #### `package.json` - Defines npm behaviors and packages for the client
-#### `server` - Holds the server application
+#### `backend` - Holds the server application
 - #### `controllers` - These hold all of the callback functions that each route will call
 - #### `models` - This holds all of our data models
 - #### `routes` - This holds all of our HTTP to URL path associations for each unique url
